@@ -47,4 +47,4 @@ I use Cascade connection with Haar-like
 
 ## Run Haar-like
 
-You can run './anomaly_detection.py' for demo. You can see the output of anomaly probability, ROC curve and precision_recall curve.
+You can run './haar_test.py' for demo. You can see the output of anomaly probability, ROC curve and precision_recall curve.
